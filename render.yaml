@@ -1,0 +1,17 @@
+# Render blueprint for the backend (spec §13). The frontend goes to Vercel or Netlify.
+services:
+  - type: web
+    name: offerquest-backend
+    runtime: docker
+    dockerfilePath: backend/Dockerfile
+    dockerContext: .
+    healthCheckPath: /health
+    envVars:
+      - key: GEMINI_API_KEY
+        sync: false          # set in the dashboard; leave empty to run on the offline brain
+      - key: OFFERQUEST_ORIGINS
+        sync: false          # the deployed frontend URL, e.g. https://offerquest.vercel.app
+    disk:                    # paid plans only; without it, data resets on every deploy
+      name: offerquest-data
+      mountPath: /data
+      sizeGB: 1

@@ -1,0 +1,1094 @@
+[
+ {
+  "name": "Neha → SDE Intern at Brightlane Software",
+  "company": "Brightlane Software",
+  "role": "SDE Intern",
+  "days_available": 21,
+  "hours_per_day": 3,
+  "job_description": "Brightlane Software — SDE Intern\n\nRequirements:\n- Strong problem solving with data structures and algorithms (trees, graphs, dynamic programming)\n- Proficiency in Java or C++\n- Understanding of OOP, DBMS and operating systems\n- Familiarity with Git and SQL\n\nInterview process: online assessment, two technical interviews, HR round.\n\nNice to have:\n- Spring Boot\n- Docker\n- AWS",
+  "student": {
+   "id": "stu_eval_neha",
+   "name": "Neha Kulkarni",
+   "college": "Deccan College of Engineering",
+   "degree": "B.E.",
+   "branch": "Information Technology",
+   "year": 3,
+   "graduation_date": "2028",
+   "cgpa": 8.6,
+   "skills": [
+    "Java",
+    "C++",
+    "SQL",
+    "Git"
+   ],
+   "achievements": [
+    "300+ problems solved on LeetCode"
+   ],
+   "links": {
+    "github": "https://github.com/neha-eval"
+   },
+   "projects": [
+    {
+     "name": "Library Manager",
+     "description": "Made a library management system with book issue and return. Used JDBC to connect to the database.",
+     "tech_stack": [
+      "Java",
+      "MySQL"
+     ],
+     "link": "https://github.com/neha-eval/library-manager",
+     "metrics": [
+      "Handles 500 book records"
+     ]
+    },
+    {
+     "name": "Pathfinder Visualiser",
+     "description": "Worked on a tool that shows how BFS and Dijkstra explore a graph.",
+     "tech_stack": [
+      "JavaScript",
+      "HTML",
+      "CSS"
+     ],
+     "link": null,
+     "metrics": []
+    }
+   ]
+  },
+  "confidence": {
+   "dsa": 3,
+   "fundamentals": 3,
+   "projects": 3,
+   "communication": 3
+  }
+ },
+ {
+  "name": "Neha → Backend Engineer Intern at Quillstack",
+  "company": "Quillstack",
+  "role": "Backend Engineer Intern",
+  "days_available": 14,
+  "hours_per_day": 2,
+  "job_description": "Quillstack — Backend Engineer Intern\n\nRequirements:\n- Java and Spring Boot for building REST APIs\n- SQL and PostgreSQL\n- Git, unit testing and clean code\n- Ownership of features end to end\n\nNice to have:\n- Redis\n- Kubernetes",
+  "student": {
+   "id": "stu_eval_neha",
+   "name": "Neha Kulkarni",
+   "college": "Deccan College of Engineering",
+   "degree": "B.E.",
+   "branch": "Information Technology",
+   "year": 3,
+   "graduation_date": "2028",
+   "cgpa": 8.6,
+   "skills": [
+    "Java",
+    "C++",
+    "SQL",
+    "Git"
+   ],
+   "achievements": [
+    "300+ problems solved on LeetCode"
+   ],
+   "links": {
+    "github": "https://github.com/neha-eval"
+   },
+   "projects": [
+    {
+     "name": "Library Manager",
+     "description": "Made a library management system with book issue and return. Used JDBC to connect to the database.",
+     "tech_stack": [
+      "Java",
+      "MySQL"
+     ],
+     "link": "https://github.com/neha-eval/library-manager",
+     "metrics": [
+      "Handles 500 book records"
+     ]
+    },
+    {
+     "name": "Pathfinder Visualiser",
+     "description": "Worked on a tool that shows how BFS and Dijkstra explore a graph.",
+     "tech_stack": [
+      "JavaScript",
+      "HTML",
+      "CSS"
+     ],
+     "link": null,
+     "metrics": []
+    }
+   ]
+  },
+  "confidence": {
+   "dsa": 3,
+   "fundamentals": 3,
+   "projects": 3,
+   "communication": 3
+  }
+ },
+ {
+  "name": "Neha → Graduate Engineer Trainee at Infovista Services",
+  "company": "Infovista Services",
+  "role": "Graduate Engineer Trainee",
+  "days_available": 10,
+  "hours_per_day": 2,
+  "job_description": "Infovista Services — Graduate Engineer Trainee\n\nRequirements:\n- Good knowledge of Java, SQL and OOP\n- Basics of DBMS, operating systems and computer networks\n- Aptitude and communication skills\n- Willingness to learn\n\nInterview process: aptitude test, technical interview, HR round.",
+  "student": {
+   "id": "stu_eval_neha",
+   "name": "Neha Kulkarni",
+   "college": "Deccan College of Engineering",
+   "degree": "B.E.",
+   "branch": "Information Technology",
+   "year": 3,
+   "graduation_date": "2028",
+   "cgpa": 8.6,
+   "skills": [
+    "Java",
+    "C++",
+    "SQL",
+    "Git"
+   ],
+   "achievements": [
+    "300+ problems solved on LeetCode"
+   ],
+   "links": {
+    "github": "https://github.com/neha-eval"
+   },
+   "projects": [
+    {
+     "name": "Library Manager",
+     "description": "Made a library management system with book issue and return. Used JDBC to connect to the database.",
+     "tech_stack": [
+      "Java",
+      "MySQL"
+     ],
+     "link": "https://github.com/neha-eval/library-manager",
+     "metrics": [
+      "Handles 500 book records"
+     ]
+    },
+    {
+     "name": "Pathfinder Visualiser",
+     "description": "Worked on a tool that shows how BFS and Dijkstra explore a graph.",
+     "tech_stack": [
+      "JavaScript",
+      "HTML",
+      "CSS"
+     ],
+     "link": null,
+     "metrics": []
+    }
+   ]
+  },
+  "confidence": {
+   "dsa": 3,
+   "fundamentals": 3,
+   "projects": 3,
+   "communication": 3
+  }
+ },
+ {
+  "name": "Neha → SDE-1 at Ledgerline",
+  "company": "Ledgerline",
+  "role": "SDE-1",
+  "days_available": 28,
+  "hours_per_day": 3,
+  "job_description": "Ledgerline — SDE-1\n\nRequirements:\n- Data structures and algorithms: arrays, hashing, graphs, dynamic programming\n- System design basics\n- Java or Go\n- Experience with microservices and SQL in production\n\nInterview process: online assessment, technical interview, system design round, HR round.\n\nNice to have:\n- AWS\n- CI/CD",
+  "student": {
+   "id": "stu_eval_neha",
+   "name": "Neha Kulkarni",
+   "college": "Deccan College of Engineering",
+   "degree": "B.E.",
+   "branch": "Information Technology",
+   "year": 3,
+   "graduation_date": "2028",
+   "cgpa": 8.6,
+   "skills": [
+    "Java",
+    "C++",
+    "SQL",
+    "Git"
+   ],
+   "achievements": [
+    "300+ problems solved on LeetCode"
+   ],
+   "links": {
+    "github": "https://github.com/neha-eval"
+   },
+   "projects": [
+    {
+     "name": "Library Manager",
+     "description": "Made a library management system with book issue and return. Used JDBC to connect to the database.",
+     "tech_stack": [
+      "Java",
+      "MySQL"
+     ],
+     "link": "https://github.com/neha-eval/library-manager",
+     "metrics": [
+      "Handles 500 book records"
+     ]
+    },
+    {
+     "name": "Pathfinder Visualiser",
+     "description": "Worked on a tool that shows how BFS and Dijkstra explore a graph.",
+     "tech_stack": [
+      "JavaScript",
+      "HTML",
+      "CSS"
+     ],
+     "link": null,
+     "metrics": []
+    }
+   ]
+  },
+  "confidence": {
+   "dsa": 3,
+   "fundamentals": 3,
+   "projects": 3,
+   "communication": 3
+  }
+ },
+ {
+  "name": "Rohan → Data Analyst Trainee at Kirana Insights",
+  "company": "Kirana Insights",
+  "role": "Data Analyst Trainee",
+  "days_available": 10,
+  "hours_per_day": 2,
+  "job_description": "Kirana Insights — Data Analyst Trainee\n\nRequirements:\n- SQL, Excel and basic statistics\n- Clean and analyse data with Python and Pandas\n- Build dashboards in Power BI\n- Attention to detail and clear communication\n\nNice to have:\n- Tableau",
+  "student": {
+   "id": "stu_eval_rohan",
+   "name": "Rohan Patil",
+   "college": "Vidarbha Institute of Science",
+   "degree": "B.Sc",
+   "branch": "Statistics",
+   "year": 3,
+   "graduation_date": "2027",
+   "cgpa": null,
+   "skills": [
+    "Excel",
+    "SQL",
+    "Python"
+   ],
+   "achievements": [],
+   "links": {},
+   "projects": [
+    {
+     "name": "Mandi Price Tracker",
+     "description": "Did an analysis of vegetable prices across 12 mandis using Pandas. Made charts showing weekly price changes.",
+     "tech_stack": [
+      "Python",
+      "Pandas",
+      "Matplotlib"
+     ],
+     "link": null,
+     "metrics": []
+    }
+   ]
+  },
+  "confidence": {
+   "dsa": 3,
+   "fundamentals": 3,
+   "projects": 3,
+   "communication": 3
+  }
+ },
+ {
+  "name": "Rohan → Business Analyst Intern at Farmlytics",
+  "company": "Farmlytics",
+  "role": "Business Analyst Intern",
+  "days_available": 14,
+  "hours_per_day": 1,
+  "job_description": "Farmlytics — Business Analyst Intern\n\nRequirements:\n- Advanced Excel and SQL\n- Data visualization and presenting insights to business teams\n- Statistics and probability\n\nNice to have:\n- Python\n- Power BI",
+  "student": {
+   "id": "stu_eval_rohan",
+   "name": "Rohan Patil",
+   "college": "Vidarbha Institute of Science",
+   "degree": "B.Sc",
+   "branch": "Statistics",
+   "year": 3,
+   "graduation_date": "2027",
+   "cgpa": null,
+   "skills": [
+    "Excel",
+    "SQL",
+    "Python"
+   ],
+   "achievements": [],
+   "links": {},
+   "projects": [
+    {
+     "name": "Mandi Price Tracker",
+     "description": "Did an analysis of vegetable prices across 12 mandis using Pandas. Made charts showing weekly price changes.",
+     "tech_stack": [
+      "Python",
+      "Pandas",
+      "Matplotlib"
+     ],
+     "link": null,
+     "metrics": []
+    }
+   ]
+  },
+  "confidence": {
+   "dsa": 3,
+   "fundamentals": 3,
+   "projects": 3,
+   "communication": 3
+  }
+ },
+ {
+  "name": "Rohan → Data Engineer Intern at Meterwise",
+  "company": "Meterwise",
+  "role": "Data Engineer Intern",
+  "days_available": 21,
+  "hours_per_day": 2,
+  "job_description": "Meterwise — Data Engineer Intern\n\nRequirements:\n- Python and SQL\n- ETL and data pipelines with Spark\n- Git and Linux basics\n- DBMS fundamentals\n\nInterview process: online assessment, technical interview, HR round.\n\nNice to have:\n- AWS\n- Docker",
+  "student": {
+   "id": "stu_eval_rohan",
+   "name": "Rohan Patil",
+   "college": "Vidarbha Institute of Science",
+   "degree": "B.Sc",
+   "branch": "Statistics",
+   "year": 3,
+   "graduation_date": "2027",
+   "cgpa": null,
+   "skills": [
+    "Excel",
+    "SQL",
+    "Python"
+   ],
+   "achievements": [],
+   "links": {},
+   "projects": [
+    {
+     "name": "Mandi Price Tracker",
+     "description": "Did an analysis of vegetable prices across 12 mandis using Pandas. Made charts showing weekly price changes.",
+     "tech_stack": [
+      "Python",
+      "Pandas",
+      "Matplotlib"
+     ],
+     "link": null,
+     "metrics": []
+    }
+   ]
+  },
+  "confidence": {
+   "dsa": 3,
+   "fundamentals": 3,
+   "projects": 3,
+   "communication": 3
+  }
+ },
+ {
+  "name": "Rohan → Junior Data Scientist at Quantleaf",
+  "company": "Quantleaf",
+  "role": "Junior Data Scientist",
+  "days_available": 18,
+  "hours_per_day": 2,
+  "job_description": "Quantleaf — Junior Data Scientist\n\nRequirements:\n- Python, Pandas and scikit-learn\n- Machine learning fundamentals and statistics\n- SQL\n- Communicating measurable impact of models\n\nNice to have:\n- Deep Learning\n- Docker",
+  "student": {
+   "id": "stu_eval_rohan",
+   "name": "Rohan Patil",
+   "college": "Vidarbha Institute of Science",
+   "degree": "B.Sc",
+   "branch": "Statistics",
+   "year": 3,
+   "graduation_date": "2027",
+   "cgpa": null,
+   "skills": [
+    "Excel",
+    "SQL",
+    "Python"
+   ],
+   "achievements": [],
+   "links": {},
+   "projects": [
+    {
+     "name": "Mandi Price Tracker",
+     "description": "Did an analysis of vegetable prices across 12 mandis using Pandas. Made charts showing weekly price changes.",
+     "tech_stack": [
+      "Python",
+      "Pandas",
+      "Matplotlib"
+     ],
+     "link": null,
+     "metrics": []
+    }
+   ]
+  },
+  "confidence": {
+   "dsa": 3,
+   "fundamentals": 3,
+   "projects": 3,
+   "communication": 3
+  }
+ },
+ {
+  "name": "Sana → Frontend Developer Intern at Pixelpanda",
+  "company": "Pixelpanda",
+  "role": "Frontend Developer Intern",
+  "days_available": 12,
+  "hours_per_day": 3,
+  "job_description": "Pixelpanda — Frontend Developer Intern\n\nRequirements:\n- JavaScript, React, HTML and CSS\n- REST APIs and Git\n- Eye for polished, shipped interfaces\n- Collaboration with designers\n\nInterview process: take-home assignment, technical interview, HR round.\n\nNice to have:\n- TypeScript\n- Next.js\n- Tailwind",
+  "student": {
+   "id": "stu_eval_sana",
+   "name": "Sana Sheikh",
+   "college": "Konkan Institute of Technology",
+   "degree": "B.Tech",
+   "branch": "Computer Engineering",
+   "year": 4,
+   "graduation_date": "2027",
+   "cgpa": 7.9,
+   "skills": [
+    "JavaScript",
+    "React",
+    "HTML",
+    "CSS",
+    "Git"
+   ],
+   "achievements": [
+    "Winner, college UI hackathon"
+   ],
+   "links": {
+    "github": "https://github.com/sana-eval"
+   },
+   "projects": [
+    {
+     "name": "Tiffin Tracker",
+     "description": "Created a web app for hostel students to order tiffins. Worked on the cart and order history pages.",
+     "tech_stack": [
+      "React",
+      "Node.js",
+      "MongoDB"
+     ],
+     "link": "https://github.com/sana-eval/tiffin",
+     "metrics": [
+      "Used by 60 hostel students"
+     ]
+    },
+    {
+     "name": "Portfolio Site",
+     "description": "Made a personal portfolio with a blog.",
+     "tech_stack": [
+      "Next.js",
+      "Tailwind"
+     ],
+     "link": null,
+     "metrics": []
+    }
+   ]
+  },
+  "confidence": {
+   "dsa": 3,
+   "fundamentals": 3,
+   "projects": 3,
+   "communication": 3
+  }
+ },
+ {
+  "name": "Sana → Full Stack Intern at Cartwheel",
+  "company": "Cartwheel",
+  "role": "Full Stack Intern",
+  "days_available": 20,
+  "hours_per_day": 2,
+  "job_description": "Cartwheel — Full Stack Intern\n\nRequirements:\n- React and Node.js\n- MongoDB or PostgreSQL\n- REST APIs, Git and unit testing\n- Ownership of a feature end to end\n\nNice to have:\n- Docker\n- AWS",
+  "student": {
+   "id": "stu_eval_sana",
+   "name": "Sana Sheikh",
+   "college": "Konkan Institute of Technology",
+   "degree": "B.Tech",
+   "branch": "Computer Engineering",
+   "year": 4,
+   "graduation_date": "2027",
+   "cgpa": 7.9,
+   "skills": [
+    "JavaScript",
+    "React",
+    "HTML",
+    "CSS",
+    "Git"
+   ],
+   "achievements": [
+    "Winner, college UI hackathon"
+   ],
+   "links": {
+    "github": "https://github.com/sana-eval"
+   },
+   "projects": [
+    {
+     "name": "Tiffin Tracker",
+     "description": "Created a web app for hostel students to order tiffins. Worked on the cart and order history pages.",
+     "tech_stack": [
+      "React",
+      "Node.js",
+      "MongoDB"
+     ],
+     "link": "https://github.com/sana-eval/tiffin",
+     "metrics": [
+      "Used by 60 hostel students"
+     ]
+    },
+    {
+     "name": "Portfolio Site",
+     "description": "Made a personal portfolio with a blog.",
+     "tech_stack": [
+      "Next.js",
+      "Tailwind"
+     ],
+     "link": null,
+     "metrics": []
+    }
+   ]
+  },
+  "confidence": {
+   "dsa": 3,
+   "fundamentals": 3,
+   "projects": 3,
+   "communication": 3
+  }
+ },
+ {
+  "name": "Sana → SDE Intern at Brightlane Software",
+  "company": "Brightlane Software",
+  "role": "SDE Intern",
+  "days_available": 25,
+  "hours_per_day": 2,
+  "job_description": "Brightlane Software — SDE Intern\n\nRequirements:\n- Strong problem solving with data structures and algorithms (trees, graphs, dynamic programming)\n- Proficiency in Java or C++\n- Understanding of OOP, DBMS and operating systems\n- Familiarity with Git and SQL\n\nInterview process: online assessment, two technical interviews, HR round.\n\nNice to have:\n- Spring Boot",
+  "student": {
+   "id": "stu_eval_sana",
+   "name": "Sana Sheikh",
+   "college": "Konkan Institute of Technology",
+   "degree": "B.Tech",
+   "branch": "Computer Engineering",
+   "year": 4,
+   "graduation_date": "2027",
+   "cgpa": 7.9,
+   "skills": [
+    "JavaScript",
+    "React",
+    "HTML",
+    "CSS",
+    "Git"
+   ],
+   "achievements": [
+    "Winner, college UI hackathon"
+   ],
+   "links": {
+    "github": "https://github.com/sana-eval"
+   },
+   "projects": [
+    {
+     "name": "Tiffin Tracker",
+     "description": "Created a web app for hostel students to order tiffins. Worked on the cart and order history pages.",
+     "tech_stack": [
+      "React",
+      "Node.js",
+      "MongoDB"
+     ],
+     "link": "https://github.com/sana-eval/tiffin",
+     "metrics": [
+      "Used by 60 hostel students"
+     ]
+    },
+    {
+     "name": "Portfolio Site",
+     "description": "Made a personal portfolio with a blog.",
+     "tech_stack": [
+      "Next.js",
+      "Tailwind"
+     ],
+     "link": null,
+     "metrics": []
+    }
+   ]
+  },
+  "confidence": {
+   "dsa": 3,
+   "fundamentals": 3,
+   "projects": 3,
+   "communication": 3
+  }
+ },
+ {
+  "name": "Sana → React Native Developer Intern at Tapstream",
+  "company": "Tapstream",
+  "role": "React Native Developer Intern",
+  "days_available": 9,
+  "hours_per_day": 2,
+  "job_description": "Tapstream — React Native Developer Intern\n\nRequirements:\n- React Native and JavaScript\n- REST APIs and Firebase\n- Git\n\nNice to have:\n- TypeScript\n- Android",
+  "student": {
+   "id": "stu_eval_sana",
+   "name": "Sana Sheikh",
+   "college": "Konkan Institute of Technology",
+   "degree": "B.Tech",
+   "branch": "Computer Engineering",
+   "year": 4,
+   "graduation_date": "2027",
+   "cgpa": 7.9,
+   "skills": [
+    "JavaScript",
+    "React",
+    "HTML",
+    "CSS",
+    "Git"
+   ],
+   "achievements": [
+    "Winner, college UI hackathon"
+   ],
+   "links": {
+    "github": "https://github.com/sana-eval"
+   },
+   "projects": [
+    {
+     "name": "Tiffin Tracker",
+     "description": "Created a web app for hostel students to order tiffins. Worked on the cart and order history pages.",
+     "tech_stack": [
+      "React",
+      "Node.js",
+      "MongoDB"
+     ],
+     "link": "https://github.com/sana-eval/tiffin",
+     "metrics": [
+      "Used by 60 hostel students"
+     ]
+    },
+    {
+     "name": "Portfolio Site",
+     "description": "Made a personal portfolio with a blog.",
+     "tech_stack": [
+      "Next.js",
+      "Tailwind"
+     ],
+     "link": null,
+     "metrics": []
+    }
+   ]
+  },
+  "confidence": {
+   "dsa": 3,
+   "fundamentals": 3,
+   "projects": 3,
+   "communication": 3
+  }
+ },
+ {
+  "name": "Dev → AI Engineer Intern at NovaMind Labs",
+  "company": "NovaMind Labs",
+  "role": "AI Engineer Intern",
+  "days_available": 14,
+  "hours_per_day": 2.5,
+  "job_description": "NovaMind Labs — AI Engineer Intern\n\nRequirements:\n- Strong Python and comfort with Git\n- Hands-on experience with LLM APIs and retrieval (RAG) pipelines\n- Understanding of evaluation: how do you know your system is good?\n- Solid basics: data structures (arrays, hashing, graphs), OOP and DBMS\n- Ability to build and call REST APIs\n\nNice to have:\n- LangGraph\n- Docker\n- Vector databases",
+  "student": {
+   "id": "stu_eval_dev",
+   "name": "Dev Malhotra",
+   "college": "Satpura Engineering College",
+   "degree": "B.Tech",
+   "branch": "Artificial Intelligence",
+   "year": 3,
+   "graduation_date": "2028",
+   "cgpa": 8.9,
+   "skills": [
+    "Python",
+    "PyTorch",
+    "SQL",
+    "Git",
+    "Docker"
+   ],
+   "achievements": [
+    "Top 5%, a public Kaggle competition"
+   ],
+   "links": {
+    "github": "https://github.com/dev-eval"
+   },
+   "projects": [
+    {
+     "name": "Crop Doctor",
+     "description": "Worked on an image classifier that detects leaf diseases from phone photos. Deployed it as an API.",
+     "tech_stack": [
+      "Python",
+      "PyTorch",
+      "FastAPI",
+      "Docker"
+     ],
+     "link": "https://github.com/dev-eval/crop-doctor",
+     "metrics": [
+      "91% accuracy on 4 disease classes"
+     ]
+    },
+    {
+     "name": "Notes Search",
+     "description": "Made a semantic search over lecture notes using embeddings.",
+     "tech_stack": [
+      "Python",
+      "LangChain",
+      "ChromaDB"
+     ],
+     "link": null,
+     "metrics": []
+    }
+   ]
+  },
+  "confidence": {
+   "dsa": 3,
+   "fundamentals": 3,
+   "projects": 3,
+   "communication": 3
+  }
+ },
+ {
+  "name": "Dev → Computer Vision Intern at Visionworks",
+  "company": "Visionworks",
+  "role": "Computer Vision Intern",
+  "days_available": 16,
+  "hours_per_day": 3,
+  "job_description": "Visionworks — Computer Vision Intern\n\nRequirements:\n- Python and PyTorch\n- Deep learning and computer vision\n- Deployed models as APIs with Docker\n- Measurable results on real data\n\nNice to have:\n- TensorFlow\n- AWS",
+  "student": {
+   "id": "stu_eval_dev",
+   "name": "Dev Malhotra",
+   "college": "Satpura Engineering College",
+   "degree": "B.Tech",
+   "branch": "Artificial Intelligence",
+   "year": 3,
+   "graduation_date": "2028",
+   "cgpa": 8.9,
+   "skills": [
+    "Python",
+    "PyTorch",
+    "SQL",
+    "Git",
+    "Docker"
+   ],
+   "achievements": [
+    "Top 5%, a public Kaggle competition"
+   ],
+   "links": {
+    "github": "https://github.com/dev-eval"
+   },
+   "projects": [
+    {
+     "name": "Crop Doctor",
+     "description": "Worked on an image classifier that detects leaf diseases from phone photos. Deployed it as an API.",
+     "tech_stack": [
+      "Python",
+      "PyTorch",
+      "FastAPI",
+      "Docker"
+     ],
+     "link": "https://github.com/dev-eval/crop-doctor",
+     "metrics": [
+      "91% accuracy on 4 disease classes"
+     ]
+    },
+    {
+     "name": "Notes Search",
+     "description": "Made a semantic search over lecture notes using embeddings.",
+     "tech_stack": [
+      "Python",
+      "LangChain",
+      "ChromaDB"
+     ],
+     "link": null,
+     "metrics": []
+    }
+   ]
+  },
+  "confidence": {
+   "dsa": 3,
+   "fundamentals": 3,
+   "projects": 3,
+   "communication": 3
+  }
+ },
+ {
+  "name": "Dev → Junior Data Scientist at Quantleaf",
+  "company": "Quantleaf",
+  "role": "Junior Data Scientist",
+  "days_available": 18,
+  "hours_per_day": 2,
+  "job_description": "Quantleaf — Junior Data Scientist\n\nRequirements:\n- Python, Pandas and scikit-learn\n- Machine learning fundamentals and statistics\n- SQL\n- Communicating measurable impact of models\n\nNice to have:\n- Deep Learning\n- Docker",
+  "student": {
+   "id": "stu_eval_dev",
+   "name": "Dev Malhotra",
+   "college": "Satpura Engineering College",
+   "degree": "B.Tech",
+   "branch": "Artificial Intelligence",
+   "year": 3,
+   "graduation_date": "2028",
+   "cgpa": 8.9,
+   "skills": [
+    "Python",
+    "PyTorch",
+    "SQL",
+    "Git",
+    "Docker"
+   ],
+   "achievements": [
+    "Top 5%, a public Kaggle competition"
+   ],
+   "links": {
+    "github": "https://github.com/dev-eval"
+   },
+   "projects": [
+    {
+     "name": "Crop Doctor",
+     "description": "Worked on an image classifier that detects leaf diseases from phone photos. Deployed it as an API.",
+     "tech_stack": [
+      "Python",
+      "PyTorch",
+      "FastAPI",
+      "Docker"
+     ],
+     "link": "https://github.com/dev-eval/crop-doctor",
+     "metrics": [
+      "91% accuracy on 4 disease classes"
+     ]
+    },
+    {
+     "name": "Notes Search",
+     "description": "Made a semantic search over lecture notes using embeddings.",
+     "tech_stack": [
+      "Python",
+      "LangChain",
+      "ChromaDB"
+     ],
+     "link": null,
+     "metrics": []
+    }
+   ]
+  },
+  "confidence": {
+   "dsa": 3,
+   "fundamentals": 3,
+   "projects": 3,
+   "communication": 3
+  }
+ },
+ {
+  "name": "Dev → ML Engineer Intern at Promptforge",
+  "company": "Promptforge",
+  "role": "ML Engineer Intern",
+  "days_available": 30,
+  "hours_per_day": 2,
+  "job_description": "Promptforge — ML Engineer Intern\n\nRequirements:\n- Python, PyTorch and Hugging Face\n- Fine-tuning and evaluation of language models\n- Git, Docker and Linux\n- Data structures and algorithms\n\nInterview process: online assessment, technical interview, HR round.\n\nNice to have:\n- Kubernetes\n- GCP",
+  "student": {
+   "id": "stu_eval_dev",
+   "name": "Dev Malhotra",
+   "college": "Satpura Engineering College",
+   "degree": "B.Tech",
+   "branch": "Artificial Intelligence",
+   "year": 3,
+   "graduation_date": "2028",
+   "cgpa": 8.9,
+   "skills": [
+    "Python",
+    "PyTorch",
+    "SQL",
+    "Git",
+    "Docker"
+   ],
+   "achievements": [
+    "Top 5%, a public Kaggle competition"
+   ],
+   "links": {
+    "github": "https://github.com/dev-eval"
+   },
+   "projects": [
+    {
+     "name": "Crop Doctor",
+     "description": "Worked on an image classifier that detects leaf diseases from phone photos. Deployed it as an API.",
+     "tech_stack": [
+      "Python",
+      "PyTorch",
+      "FastAPI",
+      "Docker"
+     ],
+     "link": "https://github.com/dev-eval/crop-doctor",
+     "metrics": [
+      "91% accuracy on 4 disease classes"
+     ]
+    },
+    {
+     "name": "Notes Search",
+     "description": "Made a semantic search over lecture notes using embeddings.",
+     "tech_stack": [
+      "Python",
+      "LangChain",
+      "ChromaDB"
+     ],
+     "link": null,
+     "metrics": []
+    }
+   ]
+  },
+  "confidence": {
+   "dsa": 3,
+   "fundamentals": 3,
+   "projects": 3,
+   "communication": 3
+  }
+ },
+ {
+  "name": "Isha → Graduate Engineer Trainee at Infovista Services",
+  "company": "Infovista Services",
+  "role": "Graduate Engineer Trainee",
+  "days_available": 10,
+  "hours_per_day": 2,
+  "job_description": "Infovista Services — Graduate Engineer Trainee\n\nRequirements:\n- Good knowledge of Java, SQL and OOP\n- Basics of DBMS, operating systems and computer networks\n- Aptitude and communication skills\n- Willingness to learn\n\nInterview process: aptitude test, technical interview, HR round.",
+  "student": {
+   "id": "stu_eval_isha",
+   "name": "Isha Nair",
+   "college": "Malabar College of Engineering",
+   "degree": "B.Tech",
+   "branch": "Electronics",
+   "year": 4,
+   "graduation_date": "2027",
+   "cgpa": 7.2,
+   "skills": [
+    "C",
+    "Python",
+    "Communication"
+   ],
+   "achievements": [],
+   "links": {},
+   "projects": [
+    {
+     "name": "Attendance Counter",
+     "description": "Did a small project that counts people entering a classroom with a sensor.",
+     "tech_stack": [
+      "Python"
+     ],
+     "link": null,
+     "metrics": []
+    }
+   ]
+  },
+  "confidence": {
+   "dsa": 3,
+   "fundamentals": 3,
+   "projects": 3,
+   "communication": 3
+  }
+ },
+ {
+  "name": "Isha → Associate Software Engineer at Corewave Systems",
+  "company": "Corewave Systems",
+  "role": "Associate Software Engineer",
+  "days_available": 15,
+  "hours_per_day": 2,
+  "job_description": "Corewave Systems — Associate Software Engineer\n\nRequirements:\n- Programming in C or Python\n- Data structures, OOP and DBMS\n- Problem solving and communication\n\nInterview process: aptitude test, coding test, technical interview, HR round.\n\nNice to have:\n- Linux\n- Git",
+  "student": {
+   "id": "stu_eval_isha",
+   "name": "Isha Nair",
+   "college": "Malabar College of Engineering",
+   "degree": "B.Tech",
+   "branch": "Electronics",
+   "year": 4,
+   "graduation_date": "2027",
+   "cgpa": 7.2,
+   "skills": [
+    "C",
+    "Python",
+    "Communication"
+   ],
+   "achievements": [],
+   "links": {},
+   "projects": [
+    {
+     "name": "Attendance Counter",
+     "description": "Did a small project that counts people entering a classroom with a sensor.",
+     "tech_stack": [
+      "Python"
+     ],
+     "link": null,
+     "metrics": []
+    }
+   ]
+  },
+  "confidence": {
+   "dsa": 3,
+   "fundamentals": 3,
+   "projects": 3,
+   "communication": 3
+  }
+ },
+ {
+  "name": "Isha → QA Engineer Trainee at Testbridge",
+  "company": "Testbridge",
+  "role": "QA Engineer Trainee",
+  "days_available": 7,
+  "hours_per_day": 1.5,
+  "job_description": "Testbridge — QA Engineer Trainee\n\nRequirements:\n- Testing fundamentals and attention to detail\n- Python or Java for test scripts\n- SQL basics\n- Clear communication\n\nNice to have:\n- Agile\n- Git",
+  "student": {
+   "id": "stu_eval_isha",
+   "name": "Isha Nair",
+   "college": "Malabar College of Engineering",
+   "degree": "B.Tech",
+   "branch": "Electronics",
+   "year": 4,
+   "graduation_date": "2027",
+   "cgpa": 7.2,
+   "skills": [
+    "C",
+    "Python",
+    "Communication"
+   ],
+   "achievements": [],
+   "links": {},
+   "projects": [
+    {
+     "name": "Attendance Counter",
+     "description": "Did a small project that counts people entering a classroom with a sensor.",
+     "tech_stack": [
+      "Python"
+     ],
+     "link": null,
+     "metrics": []
+    }
+   ]
+  },
+  "confidence": {
+   "dsa": 3,
+   "fundamentals": 3,
+   "projects": 3,
+   "communication": 3
+  }
+ },
+ {
+  "name": "Isha → Data Analyst Trainee at Kirana Insights",
+  "company": "Kirana Insights",
+  "role": "Data Analyst Trainee",
+  "days_available": 12,
+  "hours_per_day": 2,
+  "job_description": "Kirana Insights — Data Analyst Trainee\n\nRequirements:\n- SQL, Excel and basic statistics\n- Clean and analyse data with Python and Pandas\n- Build dashboards in Power BI\n- Attention to detail and clear communication\n\nNice to have:\n- Tableau",
+  "student": {
+   "id": "stu_eval_isha",
+   "name": "Isha Nair",
+   "college": "Malabar College of Engineering",
+   "degree": "B.Tech",
+   "branch": "Electronics",
+   "year": 4,
+   "graduation_date": "2027",
+   "cgpa": 7.2,
+   "skills": [
+    "C",
+    "Python",
+    "Communication"
+   ],
+   "achievements": [],
+   "links": {},
+   "projects": [
+    {
+     "name": "Attendance Counter",
+     "description": "Did a small project that counts people entering a classroom with a sensor.",
+     "tech_stack": [
+      "Python"
+     ],
+     "link": null,
+     "metrics": []
+    }
+   ]
+  },
+  "confidence": {
+   "dsa": 3,
+   "fundamentals": 3,
+   "projects": 3,
+   "communication": 3
+  }
+ }
+]

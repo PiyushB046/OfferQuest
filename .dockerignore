@@ -1,0 +1,6 @@
+.venv
+data
+frontend
+**/__pycache__
+.env
+eval
